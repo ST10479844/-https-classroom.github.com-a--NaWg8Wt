@@ -40,6 +40,8 @@ DEVELOPER NOTE:
 This app was developed as part of a Kotlin Learning journey - proving that even simple tools like parallel arrays and loops, you can build something functional and helpful!
 
 Here are screenshots of my source code:
+
+
 ![act1 front end (1)](https://github.com/user-attachments/assets/e5e43af3-a33b-4930-987c-dbf240c85af5)
 
 ![act1 Front end (2)](https://github.com/user-attachments/assets/7e1b7e15-490d-46f6-af62-33b95435df4c)
@@ -59,6 +61,25 @@ Here are screenshots of my source code:
 ![Act 2 backend 1](https://github.com/user-attachments/assets/483a4c37-4193-4e26-a17e-61b2fb27b2bd)
 
 ![Act 2 backend 2](https://github.com/user-attachments/assets/d10385c1-ddf0-4585-b8aa-ba281c590049)
+
+
+Here are my inputs in my emulator:
+
+
+![Input 1](https://github.com/user-attachments/assets/3540d836-6f46-4da6-b420-d9a9dc34b347)
+
+![input 2](https://github.com/user-attachments/assets/48481a67-a689-48c4-a7c5-b352c7772309)
+
+![input 3](https://github.com/user-attachments/assets/95bcbcec-67a1-4f33-baa5-6de9c3110dbd)
+
+![Input 4](https://github.com/user-attachments/assets/1d9517a9-8212-45fa-b418-6788d224b2ec)
+
+
+
+
+
+
+
 
 
 
