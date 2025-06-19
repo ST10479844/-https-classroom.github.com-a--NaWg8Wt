@@ -28,7 +28,7 @@ Heres an example of what you can expect:
 EXAMPLE PLAYLIST:
 1. You, Lloyd, 4, RnB
 2. Fein, Travis Scott
-3.Only, Drake, 1, Rap
+3. Only, Drake, 1, Rap
 
 BUILT WITH:
 Language:  Kotlin
@@ -37,6 +37,36 @@ UI Elements: Buttons, Edit texts, Textviews
 Core Concepts: Parallel Arrays, Control Flows, Intents, Error Handling
 
 DEVELOPER NOTE:
-This app was developed as part of a Kotlin Learning journey - 
+This app was developed as part of a Kotlin Learning journey - proving that even simple tools like parallel arrays and loops, you can build something functional and helpful!
+
+Here are screenshots of my source code:
+![act1 front end (1)](https://github.com/user-attachments/assets/e5e43af3-a33b-4930-987c-dbf240c85af5)
+
+![act1 Front end (2)](https://github.com/user-attachments/assets/7e1b7e15-490d-46f6-af62-33b95435df4c)
+
+![act1 front end (3)](https://github.com/user-attachments/assets/ba767d74-c9b6-43a6-9e82-7edbc1d913c8)
+
+![act1 backend 1](https://github.com/user-attachments/assets/e300efec-154b-479f-a217-7d1d5a873eed)
+
+![act1 backend 2](https://github.com/user-attachments/assets/24c56315-e076-413a-b1f7-6119f9667ffa)
+
+![act1 backend 3](https://github.com/user-attachments/assets/b45bd13d-cf28-4958-b17c-bc766f83fe84)
+
+![act 2 Front end 1](https://github.com/user-attachments/assets/1fb73831-2fed-4257-823a-997d4ada6095)
+
+![act 2 Front end 2](https://github.com/user-attachments/assets/02196ce6-f3a8-4949-bf5e-be840d65ad7c)
+
+![Act 2 backend 1](https://github.com/user-attachments/assets/483a4c37-4193-4e26-a17e-61b2fb27b2bd)
+
+![Act 2 backend 2](https://github.com/user-attachments/assets/d10385c1-ddf0-4585-b8aa-ba281c590049)
+
+
+
+
+
+
+
+
+
 
 
